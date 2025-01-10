@@ -6,7 +6,7 @@ category: "Web Development"
 tags: ["Next.js", "Tailwind CSS", "Blogging", "GitHub"]
 coverImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp"
 author: "Jeffrey Emanuel"
-authorImage: "https://pbs.twimg.com/profile_images/1225476100547063809/53jSWs7z_400x400.jpg"
+authorImage: "https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp"
 authorBio: "Software Engineer and Founder of YouTube Transcript Optimizer"
 ---
 
